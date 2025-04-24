@@ -1,8 +1,8 @@
 ## Preview
 
-[![Imgur](https://imgur.com/FwDMNEM.gif)](https://nle1201.github.io/)
+[![Imgur](https://imgur.com/FwDMNEM.gif)](https://Nle1201.github.io/)
 
-[Live Demo](https://nle1201.github.io/)
+[Live Demo](https://Nle1201.github.io/)
 
 ## Instructions
 
@@ -38,15 +38,7 @@ yarn start
 
 - Open the `public/index.html` file and replace:
 
-`<title>NhatLe</title>` with `<title>Your Name</title>`.
-
-- Open the `src/portfolio.js` file and make the necessary changes.
-
-### Deployment
-
-- In the `package.json` file, update:
-
-`"homepage": "https://nle1201.github.io/"`
+`<title>NhatLe</title>` with `<title>Your Name</titNle1201.github.io/"`
 
 to `"homepage": "https://yourusername.github.io"`.
 
