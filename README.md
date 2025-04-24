@@ -1,10 +1,8 @@
-# Cleanfolio
-
 ## Preview
 
-[![Imgur](https://imgur.com/FwDMNEM.gif)](https://rjshkhr.github.io/cleanfolio)
+[![Imgur](https://imgur.com/FwDMNEM.gif)](https://nle1201.github.io/)
 
-[Live Demo](https://rjshkhr.github.io/cleanfolio)
+[Live Demo](https://nle1201.github.io/)
 
 ## Instructions
 
