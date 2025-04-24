@@ -1,6 +1,6 @@
 ## Preview
 
-[![Imgur](https://imgur.com/FwDMNEM.gif)](https://rjshkhr.github.io/cleanfolio)
+[![Imgur](https://imgur.com/FwDMNEM.gif)](https://nle1201.github.io/)
 
 [Live Demo](https://nle1201.github.io/)
 
@@ -9,7 +9,7 @@
 ### Setup
 
 ```shell
-git clone https://github.com/rjshkhr/cleanfolio
+git clone https://nle1201.github.io/
 cd cleanfolio
 ```
 
@@ -46,7 +46,7 @@ yarn start
 
 - In the `package.json` file, update:
 
-`"homepage": "https://rjshkhr.github.io/cleanfolio"`
+`"homepage": "https://nle1201.github.io/"`
 
 to `"homepage": "https://yourusername.github.io"`.
 
