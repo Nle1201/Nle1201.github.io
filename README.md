@@ -38,7 +38,7 @@ yarn start
 
 - Open the `public/index.html` file and replace:
 
-`<title>John Smith</title>` with `<title>Your Name</title>`.
+`<title>Nhat </title>` with `<title>Your Name</title>`.
 
 - Open the `src/portfolio.js` file and make the necessary changes.
 
@@ -46,7 +46,7 @@ yarn start
 
 - In the `package.json` file, update:
 
-`"homepage": "https://rjshkhr.github.io/cleanfolio"`
+`"homepage": "https://nle1201.github.io/"`
 
 to `"homepage": "https://yourusername.github.io"`.
 
