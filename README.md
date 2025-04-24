@@ -1,12 +1,8 @@
-# Cleanfolio
-
-Cleanfolio is a portfolio template built with React. However, if you prefer a template built with HTML, CSS, and JavaScript, you can check out [Cleanfolio Minimal](https://github.com/rjshkhr/cleanfolio-minimal).
-
 ## Preview
 
 [![Imgur](https://imgur.com/FwDMNEM.gif)](https://rjshkhr.github.io/cleanfolio)
 
-[Live Demo](https://rjshkhr.github.io/cleanfolio)
+[Live Demo](https://nle1201.github.io/)
 
 ## Instructions
 
@@ -42,7 +38,7 @@ yarn start
 
 - Open the `public/index.html` file and replace:
 
-`<title>John Smith</title>` with `<title>Your Name</title>`.
+`<title>NhatLe</title>` with `<title>Your Name</title>`.
 
 - Open the `src/portfolio.js` file and make the necessary changes.
 
