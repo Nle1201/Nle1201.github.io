@@ -1,6 +1,6 @@
 const header = {
   // all the properties are optional - can be left empty or deleted
-  homepage: 'https://github.com/Nle1201/Nle1201.github.io',
+  homepage: 'https://Nle1201.github.io/',
   title: 'JS.',
 }
 
